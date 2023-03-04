@@ -2,7 +2,7 @@ Hey, I'm Victor!
 
 I love traveling, all things web and coding in Python with Django. Most of my open-source here are focused on learging and training. 🚀
 
-...
+⚡
 -
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaolv&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&langs_count=5)](https://github.com/vitaolv/github-readme-stats)
