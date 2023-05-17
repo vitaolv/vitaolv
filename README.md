@@ -8,7 +8,7 @@ I love traveling, all things web and coding in Python with Django. Most of my op
 
 Technologies I use
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&layout=compact)](https://github.com/vitaolv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&layout=compact&theme=dracula)](https://github.com/vitaolv/github-readme-stats)
 
 Codes: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
