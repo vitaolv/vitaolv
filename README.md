@@ -1,8 +1,8 @@
 Hey, I'm Victor!
 
-I love traveling, all things web and coding in JavaScript with React. Most of my open-source here are focused on learging and training. 🚀
+I love traveling, all things web and coding in JavaScript with React. Most of my open-source here are focused on learging and training. 
 
-
+🚀
 -
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
 
