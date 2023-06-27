@@ -5,7 +5,7 @@ I love traveling, all things web and coding in Python with Django. Most of my op
 ⚡
 -
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaolv&show_icons=true&theme=dark)
+
 
 Technologies I use
 -
