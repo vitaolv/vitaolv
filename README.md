@@ -4,12 +4,12 @@ I love traveling, all things web and coding in Python with Django. Most of my op
 
 ⚡
 -
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/vitaolv/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=xcode)](https://github.com/vitaolv/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaolv&show_icons=true&theme=dark)
 
 Technologies I use
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&layout=compact&theme=xcode)](https://github.com/vitaolv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&layout=compact&theme=dark)](https://github.com/vitaolv/github-readme-stats)
 
 Codes: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
