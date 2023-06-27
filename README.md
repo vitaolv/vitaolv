@@ -1,6 +1,6 @@
 Hey, I'm Victor!
 
-I love traveling, all things web and coding in Python with Django. Most of my open-source here are focused on learging and training. 🚀
+I love traveling, all things web and coding in JavaScript with React. Most of my open-source here are focused on learging and training. 🚀
 
 ⚡
 -
