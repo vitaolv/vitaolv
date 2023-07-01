@@ -7,12 +7,13 @@ I love traveling, all things web and coding in JavaScript with React. Most of my
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitaolv&theme=dark&hide_border=true&border_radius=14&mode=weekly&card_width=1200&hide_current_streak=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitaolv)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Technologies I use
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaolv&theme=dark&layout=pie)](https://github.com/vitaolv/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitaolv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Codes: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
