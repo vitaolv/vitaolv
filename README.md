@@ -2,7 +2,7 @@ Hey, I'm Victor!
 
 I love traveling, all things web and coding in JavaScript with React. Most of my open-source here are focused on learging and training. 
 
--
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitaolv&theme=dark&hide_border=true&border_radius=14&mode=weekly&card_width=1200&hide_current_streak=true)](https://git.io/streak-stats)
