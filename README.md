@@ -1,10 +1,13 @@
-Olá, sou Victor! :D
 
-Amo viajar, sou louco por café, apaixonado por tudo relacionado ao desenvolvimento de front-end e programar em JavaScript com React, Typescript e Next.js. Tenho uma afinidade especial por resolver problemas. 
-A maior parte do meu código aberto aqui é focada em aprendizado e treinamento, enquanto continuo a explorar novas ferramentas e aprimorar minhas habilidades.
+  # Key, sou Victor! 👋
+  <p>
+      Amo viajar, sou louco por café, apaixonado por tudo relacionado ao desenvolvimento de front-end e programar em JavaScript com React, Typescript e Next.js. Tenho uma afinidade especial por resolver problemas. 
+    A maior parte do meu código aberto aqui é focada em aprendizado e treinamento, enquanto continuo a explorar novas ferramentas e aprimorar minhas habilidades. :D
+  </p>
+</div>
 
-📈
--
+📈-
+--
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
 
