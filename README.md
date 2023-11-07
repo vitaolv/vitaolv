@@ -1,15 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CB6EB&height=120&section=header"/>
 
-  # Hey, sou Victor! 👋
+  Hey, sou Victor! 👋
   <p>
       Gosto de viajar, jogar no computador, sou louco por café, apaixonado por tudo relacionado ao desenvolvimento de front-end e programar em JavaScript com React, Typescript e Next.js. Tenho uma afinidade especial por resolver problemas. 
     A maior parte do meu código aberto aqui é focada em aprendizado e treinamento, enquanto continuo a explorar novas ferramentas e aprimorar minhas habilidades. :D
   </p>
 </div>
 
-📈
+
 --
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=github-compact)](https://github.com/vitaolv/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&theme=react-dark)](https://github.com/vitaolv/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitaolv&theme=dark&hide_border=true&border_radius=14&mode=weekly&card_width=1200&hide_current_streak=true)](https://git.io/streak-stats)
 
@@ -26,3 +27,5 @@ Softwares: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-
 ORM: 	![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CB6EB&height=120&section=footer"/>
