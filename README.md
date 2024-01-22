@@ -14,7 +14,6 @@
 </p>
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitaolv&area=true&hide_border=true&point=84BDC3&color=84BDC3&title_color=84BDC3&line=71B091&area_color=2D2D62&bg_color=0D1116)](https://github.com/vitaolv/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitaolv&theme=dark&hide_border=true&border_radius=14&mode=weekly&card_width=1200&hide_current_streak=true)](https://git.io/streak-stats)
 
