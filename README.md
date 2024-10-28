@@ -9,7 +9,7 @@
 </div>
 
 <p>
-    Most of my open-source here is focused on learning and training, while I continue to explore news tolls Ane improve my skills.
+    Most of my open-source here is focused on learning and training, while I continue to explore news tolls and improve my skills.
 </p>
 <hr>
 
